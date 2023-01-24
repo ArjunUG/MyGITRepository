@@ -22,4 +22,28 @@ public class GITDemo {
 		System.out.println("5th method");
 
 	}
+	public void method6() {
+		System.out.println("6th method");
+
+	}
+	public void method7() {
+		System.out.println("7th method");
+
+	}
+	public void method8() {
+		System.out.println("8th method");
+
+	}
+	public void method9() {
+		System.out.println("9th method");
+
+	}
+	public void method10() {
+		System.out.println("10th method");
+
+	}
+
+
+
+
 }
